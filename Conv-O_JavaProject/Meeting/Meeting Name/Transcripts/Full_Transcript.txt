@@ -1,0 +1,9 @@
+\4 IN.\
+So if we were to talk about the weather
+The classifier is able to tell
+If we talk about something like Movies or Games then the classifier will know we are off topic
+Once we know we are heading off topic, we can quickly get back on topic
+It is so cold in Auckland right now, my feet are freezing
+However we can trick the system, for example
+My clothes got wet and are now cold
+Nevermind it seems hard to trick the system, but I am using a threshold of 0.99
